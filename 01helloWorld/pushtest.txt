@@ -1,0 +1,3 @@
+removes git push test, adds pushTest (whoops)
+Update: Todd McLeon shows how to do this on webstorm, not atom. Not sure how it works so... ya
+Update again: Atom has no commit-push action according to the Git discussion board. Yay me..
